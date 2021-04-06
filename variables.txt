@@ -1,0 +1,8 @@
+1400
+200
+600
+400
+background.jpg
+15
+Teams
+Score
